@@ -9,9 +9,9 @@
 | Dataset ID | `994092` |
 | Location | New Bedford |
 | Category | Restaurants |
-| Full dataset size | 209 records |
-| Free sample size | 39 records (18.66%) |
-| Last export | 2026-03-31T13:28:47.333362+00:00 |
+| Full dataset size | 394 records |
+| Free sample size | 39 records (9.9%) |
+| Last export | 2026-04-14T13:51:08.875079+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-bedford-massachusetts-us-sample-994092/releases/download/sample-latest/beamstation_994092_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
