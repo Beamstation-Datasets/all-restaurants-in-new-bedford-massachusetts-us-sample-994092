@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering New Bedford, Massachusetts with a population of over 101k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in New Bedford, Massachusetts, US",
-  "export_job_id": "9936fa3e-7886-4f38-ac76-08c6f6d06077",
+  "export_job_id": "0da71c0a-5a2e-4336-96a2-dadac894bccf",
   "github_org": "Beamstation-Datasets",
   "id_short": 994092,
   "location_name": "New Bedford",
   "location_type": "city",
   "repo_name": "all-restaurants-in-new-bedford-massachusetts-us-sample-994092",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/994092/beamstation_994092_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_pct": 18.66,
+  "sample_pct": 9.9,
   "sample_records": 39,
   "sample_sha256": "7f2450c92203d5dfaae7429a875106bda36341d8d6e18d15ec39fea48c5697f0",
   "sample_size_bytes": 146067,
-  "total_records": 209,
-  "updated_at": "2026-03-31T13:28:47.333362+00:00"
+  "total_records": 394,
+  "updated_at": "2026-04-14T13:51:08.875079+00:00"
 }
