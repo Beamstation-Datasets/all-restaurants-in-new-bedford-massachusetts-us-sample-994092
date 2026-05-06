@@ -1,6 +1,6 @@
 # All Restaurants in New Bedford, Massachusetts, US
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 39 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `994092` |
 | Location | New Bedford |
 | Category | Restaurants |
-| Full dataset size | 386 records |
-| Free sample size | 38 records (9.84%) |
-| Last export | 2026-04-28T15:48:50.762149+00:00 |
+| Full dataset size | 391 records |
+| Free sample size | 39 records (9.97%) |
+| Last export | 2026-05-06T10:58:56.605956+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-bedford-massachusetts-us-sample-994092/releases/download/sample-latest/beamstation_994092_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
