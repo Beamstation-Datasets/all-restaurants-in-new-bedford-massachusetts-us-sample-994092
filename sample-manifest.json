@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e0f89356-d8e2-4eb1-b3ad-65eb246f0cdd",
+  "export_job_id": "0f209ffa-cd87-4704-ac8d-03eef50b0e6e",
   "id_short": 994092,
-  "published_at": "2026-04-28T19:37:21Z",
+  "published_at": "2026-05-06T19:14:56Z",
   "repo_name": "all-restaurants-in-new-bedford-massachusetts-us-sample-994092",
   "sample_asset_name": "beamstation_994092_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/994092/beamstation_994092_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 38,
-  "sample_sha256": "dd2d5464fb5096b8adda7975fe3cde0a3246b6c4e06f3d9a05e4cdfc9a58fd1b",
-  "sample_size_bytes": 128817,
-  "total_records": 386
+  "sample_records": 39,
+  "sample_sha256": "5a94fc757142b0f1ae1b3b29580d0450a3ee586803a6b8995aae6b3139a424d5",
+  "sample_size_bytes": 160291,
+  "total_records": 391
 }
